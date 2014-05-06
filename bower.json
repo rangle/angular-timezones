@@ -19,6 +19,6 @@
     "angular" : "latest",
     "jquery" : "latest",
     "angular-filters" : "latest",
-    "timezone-js" : "git@github.com:mde/timezone-js.git#v0.4.4"
+    "timezone-js" : "https://github.com/mde/timezone-js.git#v0.4.4"
   }
 }
